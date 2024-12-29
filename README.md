@@ -1,4 +1,34 @@
-## Hi there 👋
+## Sejam Bem-Vindos!
+
+
+---------
+
+👽 Olá, me chamo Dannyrooh Fernandes de Campos!
+
+
+
+📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/dannyrooh-fernandes-de-campos-1446a019/)
+
+------
+
+### Minhas Tecnologias
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
+</p>
+
+
+  
+![Dannyrooh GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyrooh&show_icons=true&theme=dracula)
+
+![Dannyrooh GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyrooh&layout=compact&langs_count=7&theme=dracula)
+
+
 
 <!--
 **dannyrooh/dannyrooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
