@@ -1,5 +1,6 @@
-## Sejam Bem-Vindos!
+# Sejam Bem-Vindos!
 
+![Cloud](https://media.licdn.com/dms/image/v2/D4E16AQHwAvVkcSlO8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675993337684?e=1741219200&v=beta&t=-IwO69nYsglnjDHfwSa2ogXRqutMtRiaXz_IELU-os8)
 
 ---------
 
